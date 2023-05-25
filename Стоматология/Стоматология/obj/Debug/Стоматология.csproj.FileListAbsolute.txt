@@ -1,0 +1,17 @@
+C:\Users\Студент\source\repos\Стоматология\Стоматология\bin\Debug\Стоматология.exe.config
+C:\Users\Студент\source\repos\Стоматология\Стоматология\bin\Debug\Стоматология.exe
+C:\Users\Студент\source\repos\Стоматология\Стоматология\bin\Debug\Стоматология.pdb
+C:\Users\Студент\source\repos\Стоматология\Стоматология\obj\Debug\Стоматология.csprojAssemblyReference.cache
+C:\Users\Студент\source\repos\Стоматология\Стоматология\obj\Debug\Стоматология.Form1.resources
+C:\Users\Студент\source\repos\Стоматология\Стоматология\obj\Debug\Стоматология.Form2.resources
+C:\Users\Студент\source\repos\Стоматология\Стоматология\obj\Debug\Стоматология.Form3.resources
+C:\Users\Студент\source\repos\Стоматология\Стоматология\obj\Debug\Стоматология.Form4.resources
+C:\Users\Студент\source\repos\Стоматология\Стоматология\obj\Debug\Стоматология.Form5.resources
+C:\Users\Студент\source\repos\Стоматология\Стоматология\obj\Debug\Стоматология.Form6.resources
+C:\Users\Студент\source\repos\Стоматология\Стоматология\obj\Debug\Стоматология.Form7.resources
+C:\Users\Студент\source\repos\Стоматология\Стоматология\obj\Debug\Стоматология.Form8.resources
+C:\Users\Студент\source\repos\Стоматология\Стоматология\obj\Debug\Стоматология.Properties.Resources.resources
+C:\Users\Студент\source\repos\Стоматология\Стоматология\obj\Debug\Стоматология.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\Стоматология\Стоматология\obj\Debug\Стоматология.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\Стоматология\Стоматология\obj\Debug\Стоматология.exe
+C:\Users\Студент\source\repos\Стоматология\Стоматология\obj\Debug\Стоматология.pdb
